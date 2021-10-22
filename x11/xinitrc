@@ -1,0 +1,13 @@
+#!/bin/sh
+
+xset r rate 200 50 &
+xset s 0 0 &
+xset -dpms &
+
+dunst &
+xcompmgr &
+dwmblocks &
+wal -R &
+
+exec dwm
+

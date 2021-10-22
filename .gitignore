@@ -1,0 +1,10 @@
+nvim/plugged/
+nvim/.netrwhist
+
+# TODO: remove mutt/ from .gitignore
+mutt/
+msmtp/
+
+pulse/
+mpd/pid
+
