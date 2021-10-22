@@ -6,5 +6,7 @@ mutt/
 msmtp/
 
 pulse/
+
 mpd/pid
+ncmpcpp/error.log
 
